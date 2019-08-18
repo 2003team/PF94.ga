@@ -1,6 +1,16 @@
+ /* good green text, good. */
+
 h1 {
     color: #2ab045;
-    font-size: 5em;
-    }
-	
+    font-size: 3.5em;
+	font-family: Arial, Helvetica, sans-serif
+}
+
+p.center {
+    color: #2ab045;
+    font-size: 3.5em;
+	font-family: Arial, Helvetica, sans-serif
+}
+/* this ain't discord's blacks (2C2F33 and 23272A)*/
 body {background-color: #1c1c1c;}
+
